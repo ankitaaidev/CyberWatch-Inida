@@ -1998,3 +1998,4 @@
     </script>
   </body>
 </html>
+//This update includes minor documentation improvements for better project clarity
